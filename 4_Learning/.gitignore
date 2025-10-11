@@ -1,0 +1,4 @@
+banknotes/
+env_learning/
+__pycache__
+.csv*

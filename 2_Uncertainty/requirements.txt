@@ -1,0 +1,4 @@
+pomegranate==1.1.2
+numpy==1.23.5
+scipy==1.10.1
+networkx==2.8.8
